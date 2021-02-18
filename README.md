@@ -1,6 +1,6 @@
 # React Boiler Plate
 
-> It is same as that of files you'll get after running command
+* It is same as that of files you'll get after running command
 ```
  npx create-react-app app_name
  ```
